@@ -1,6 +1,6 @@
 # Well hello there, thanks for stopping by. I'm Alan Bui 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanbui2808&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanbui2808&size_weight=0.5&count_weight=0.5&theme=dark)
 
 This is where I document my journey. 🤓
 
