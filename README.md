@@ -29,3 +29,5 @@ This is where I document my journey. 🤓 Updating ...
 ![Tableau](https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 
+## Resume
+You can view my resume [here](https://github.com/alanbui2808/alanbui2808/blob/main/QHBui_Resume%CC%81-1.pdf).
