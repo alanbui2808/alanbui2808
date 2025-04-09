@@ -5,7 +5,7 @@
 This is where I document my journey. 🤓 Updating ...
 
 * 📖 Education: Master's of Computer Science at University of Massachusetts Amherst 
-* 🤖 Areas of interest: Machine Learning, Deep Learning, Data Science and Backend Development  
+* 🤖 Areas of interest: Applied Deep Learning and Backend Development  
 * 🏄 Hobbies: Movies (Interstellar - watched it 14th times, still counting), Music, Fitness and ⌨️ Custom Mechanical Keyboards!
 
 ## Tech Stack
