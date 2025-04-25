@@ -30,4 +30,4 @@ This is where I document my journey. 🤓 Updating ...
 
 
 ## Resume
-You can view my resume [here](https://github.com/alanbui2808/alanbui2808/blob/main/QHBui_Resume%CC%81.pdf).
+You can view my resume [here](https://github.com/alanbui2808/alanbui2808/blob/main/QuocAnhAlan_Resume%CC%81.pdf).
